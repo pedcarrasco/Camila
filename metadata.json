@@ -1,0 +1,6 @@
+{
+  "name": "Sorpresa de Cumpleaños para Camila",
+  "description": "Aplicación interactiva y romántica de cumpleaños para Camila con recuerdos, ositos tiernos, rosas, música de fondo y galería fotográfica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
