@@ -2,9 +2,9 @@ import React, { useState, useEffect, useRef } from 'react';
 import { audio } from '../utils/audio';
 import { triggerCelebration } from './FloatingParticles';
 
-import img1 from '../assets/images/foto1.jpg';
-import img2 from '../assets/images/foto2.jpg';
-import img3 from '../assets/images/foto3.jpg';
+import img1 from '../assets/images/foto1.jpg.jpeg';
+import img2 from '../assets/images/foto2.jpg.jpeg';
+import img3 from '../assets/images/foto3.jpg.jpeg';
 import img4 from '../assets/images/foto4.jpg';
 
 interface CardItem {
