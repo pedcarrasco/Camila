@@ -2,10 +2,10 @@ import React, { useState, useEffect, useRef } from 'react';
 import { audio } from '../utils/audio';
 import { triggerCelebration } from './FloatingParticles';
 
-import img1 from '../assets/images/clothing_store_selfie_1791593852229.jpg';
-import img2 from '../assets/images/grass_selfie_couple_1791593860882.jpg';
-import img3 from '../assets/images/huaso_gala_kiss_1791593870059.jpg';
-import img4 from '../assets/images/cake_frosting_kiss_1791593877759.jpg';
+import img1 from '../assets/images/foto1.jpg';
+import img2 from '../assets/images/foto2.jpg';
+import img3 from '../assets/images/foto3.jpg';
+import img4 from '../assets/images/foto4.jpg';
 
 interface CardItem {
   id: number;
